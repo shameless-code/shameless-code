@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm the one who makes shamless-code
 
-I'm a beginner Python developer, currently learning and growing my skills.
+I'm a beginner Python developer, currently learning and growing my skills.<br>
 You're one of first people to find out about me, it is so nice that you are here!
 
 <!--
