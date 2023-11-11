@@ -1,7 +1,6 @@
 # Welcome to Shamless-code's GitHub 👋
 
 I'm a beginner Python developer, currently learning and growing my skills.<br>
-You're one of the first people to find out about me, it is so nice that you are here!
 
 ## Repositories
 
